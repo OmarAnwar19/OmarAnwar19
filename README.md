@@ -1,8 +1,6 @@
 <h1 align="center">Hey there 👋, I'm Omar Anwar</h1>
 <h3 align="center">A motivated software developer, adept in a variety of web and back-end technologies!</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=omaranwar19" alt="omaranwar19" /></a> </p>
-
 - 🔭 I’m currently working on **School / Internship / Personal Projects**
 
 - 🌱 I’m currently learning **Data Structures and Algorithims**
