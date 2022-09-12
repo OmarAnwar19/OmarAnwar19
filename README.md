@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **Fullstack Development, Backend Development, AI/ML, anything else!**
 
-- 📫 How to reach me **omaranwar04@gmail.com**
+- 📫 How to reach me **omaranwar04@outlook.com**
 
 - 📄 Know about my experiences [https://docs.google.com/document/d/1C2XvpPxBAAoftkQD_oZ6eowBRhJKrlRUX4psGpl_Kos/edit?usp=sharing](https://docs.google.com/document/d/1C2XvpPxBAAoftkQD_oZ6eowBRhJKrlRUX4psGpl_Kos/edit?usp=sharing)
 
