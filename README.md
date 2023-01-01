@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **School / Internship / Personal Projects**
 
-- 🌱 I’m currently learning **Data Structures and Algorithims**
+- 🌱 I’m currently learning **NextJs**
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
