@@ -1,13 +1,13 @@
 <h1 align="center">Hey there 👋, I'm Omar Anwar</h1>
 <h3 align="center">A motivated software developer, adept in a variety of web and back-end technologies!</h3>
 
-- 🔭 I’m currently working on **School / Internship / Personal Projects**
+- 🔭 I’m currently working on **Personal Projects**
 
-- 🌱 I’m currently learning **NextJs**
+- 🌱 I’m currently learning **Vite**
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
-- 🤝 I’m looking for **Summer 2023 Internship / Co-Op Opportunities**
+- 🤝 I’m looking for **Summer 2024 Internship / Co-Op Opportunities**
 
 - 👨‍💻 All of my projects are available at [https://github.com/OmarAnwar19](https://github.com/OmarAnwar19)
 
