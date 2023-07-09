@@ -1,9 +1,9 @@
 <h1 align="center">Hey there 👋, I'm Omar Anwar</h1>
-<h3 align="center">A motivated software developer, adept in a variety of web and back-end technologies!</h3>
+<h3 align="center">A motivated software engineer, with particular interest in full-stack development / data science, and the business side of tech!</h3>
 
 - 🔭 I’m currently working on **Personal Projects**
 
-- 🌱 I’m currently learning **Vite**
+- 🌱 I’m currently learning **How to implement CNN's in TensorFlow**
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
@@ -13,13 +13,13 @@
 
 - 📝 I regularly write articles on [https://www.19tracks.tk/](https://www.19tracks.tk/)
 
-- 💬 Ask me about **Fullstack Development, Backend Development, AI/ML, anything else!**
+- 💬 Ask me about **Fullstack Development, Data Science, AI/ML, anything else!**
 
 - 📫 How to reach me **omaranwar04@outlook.com**
 
 - 📄 Know about my experiences [https://docs.google.com/document/d/1C2XvpPxBAAoftkQD_oZ6eowBRhJKrlRUX4psGpl_Kos/edit?usp=sharing](https://docs.google.com/document/d/1C2XvpPxBAAoftkQD_oZ6eowBRhJKrlRUX4psGpl_Kos/edit?usp=sharing)
 
-- ⚡ Fun fact **I'm originally from Alexandria, Egypt**
+- ⚡ Fun fact **I'm a huge music nerd!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
