@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/OmarAnwar19](https://github.com/OmarAnwar19)
 
-- 📝 I regularly write articles on [omaranwar.me](omaranwar.me)
+- 📝 I regularly write articles on [omaranwar.me](oanwar.com)
 
 - 💬 Ask me about **Full-Stack Development, Data Engineering, AI/ML Engineering**
 
