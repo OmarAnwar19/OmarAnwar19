@@ -1,5 +1,5 @@
 <h1 align="center">Hey there 👋, I'm Omar Anwar</h1>
-<h3 align="center">A motivated software engineer and student, with particular interest in Full-Stack Development, Data / ML engineering, and the business side of tech!</h3>
+<h3 align="center">I'm an engineering student and developer, with an interest in Software Development, Data Science, and Product. Nice to meet you!
 
 - 🔭 I’m currently working on **Personal Projects**
 
@@ -7,13 +7,13 @@
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
-- 🤝 I’m looking for **Summer 2024 Internship / Co-Op Opportunities**
+- 🤝 I’m looking for **Summer 2025 Internship / Co-Op Opportunities**
 
 - 👨‍💻 All of my projects are available at [https://github.com/OmarAnwar19](https://github.com/OmarAnwar19)
 
-- 📝 I regularly write articles on [omaranwar.me](oanwar.com)
+- 📝 Visit my portfolio site at [oanwar.com](oanwar.com)
 
-- 💬 Ask me about **Full-Stack Development, Data Engineering, AI/ML Engineering**
+- 💬 Ask me about **Software Development, Data Science, Product**
 
 - 📫 How to reach me **omaranwar04@outlook.com**
 
