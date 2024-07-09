@@ -1,5 +1,5 @@
 <h1 align="center">Hey there 👋, I'm Omar Anwar</h1>
-<h3 align="center">I'm an engineering student and developer, with an interest in Software Development, Data Science, and Product. Nice to meet you!
+<h3 align="center">I'm an engineering student and developer, with an interest in Software Development, Data Science, and Product. Nice to meet you!</h3>
 
 - 🔭 I’m currently working on **Personal Projects**
 
